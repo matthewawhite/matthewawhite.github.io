@@ -1,6 +1,5 @@
 body {
-  left: 10vw;
-  right: 10vw;
+  max-width: 70vw;
   border-right: 2px solid #000000;
   border-left: 2px solid #000000;
 }
